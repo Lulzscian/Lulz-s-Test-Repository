@@ -1,0 +1,18 @@
+#Contenedor{
+    display:flex;
+    justify-content: center;
+    align-items: stretch;
+    
+}
+
+.Tarjeta{
+    background-color: #006394;
+    height: 200px;
+    width: 100px;
+    padding: 10px;
+    border: 3.5px solid;
+    margin: 15px;
+}
+.Tarjeta img{
+    width:100%;
+}
